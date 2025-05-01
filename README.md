@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there 👋 I'm Landolsi Mohamed Yassine
 
-<!--
-**Ylandolsi/Ylandolsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and a passionate backend developer who loves solving challenging problems . I enjoy turning ideas into code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Interests
+
+- 🔧 **Languages**: C#, C++, SQL , Javascript 
+- 🌐 **Backend**: ASP.NET Core, Entity Framework   
+- 🛠️ **Tools & Technologies**: Git, GitHub, Swagger  
+- 🧠 **Passion**: Problem-solving 
+---
+
+### 📈 What I'm Working On
+
+- Writing clean, maintainable code by following best practices  
+- Studying and applying design patterns to improve code structure and flexibility
+
+---
+
+### 📊 Codeforces Stat Visualization
+![](https://raw.githubusercontent.com/Ylandolsi/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ylandolsi/cf-stats/main/output/light_card.svg)
+---
+### 📫 Let's Connect
+
+Feel free to check out my repositories and follow my journey as I continue learning and building.
+
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-yassine-landolsi-137657284/])  
+
+
+
