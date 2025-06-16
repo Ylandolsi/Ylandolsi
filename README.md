@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Landolsi Mohamed Yassine
 
-I'm a Computer Science student and a passionate backend developer who loves solving challenging problems . I enjoy turning ideas into code.
+I'm a Computer Science student and a passionate developer who loves solving challenging problems . I enjoy turning ideas into code.
 
 ---
 
