@@ -2,8 +2,9 @@
 
 I'm a Computer Science student and a passionate developer who loves solving challenging problems . I enjoy turning ideas into code.
 
----
+[Portfolio](https://portfolio-uuo5.vercel.app/)  
 
+---
 ### 🚀 Skills & Interests
 
 - 🔧 **Languages**: C#, C++, SQL , Javascript 
