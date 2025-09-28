@@ -16,7 +16,10 @@ I'm a Computer Science student and a passionate developer who loves solving chal
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+
 </div>
 
 ---
